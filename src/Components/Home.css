@@ -1,0 +1,22 @@
+
+.hero-section {
+   display: flex;
+   height: 270px;
+   justify-content: center;
+   align-items: center;
+   column-gap: 30px;
+   text-align: center;
+} 
+ 
+
+.albums-card {
+   margin-top: 30px;
+}
+
+.songs-card {
+   margin-top: 30px;
+}
+
+.accordion {
+   margin-top: 40px;
+}

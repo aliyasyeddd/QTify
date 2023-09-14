@@ -1,0 +1,18 @@
+.navbar {
+    background-color: var(--color-primary);
+    height: 74px;
+    width: 100vw;
+    padding: 0px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.button {
+    background-color: var(--color-black);
+    color: var(--color-primary);
+    border-radius: 12px;
+    padding: 10px 16px;
+    cursor: pointer;
+}
